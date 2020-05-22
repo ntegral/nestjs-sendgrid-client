@@ -7,7 +7,7 @@
     }
   ],
   "name": "@ntegral/nestjs-sendgrid-client",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Provides an injectable SendGrid Client for the SendGrid v3 Web API",
   "directories": {
     "lib": "lib"
@@ -47,7 +47,7 @@
     "typescript": "^3.9.2"
   },
   "dependencies": {
-    "@ntegral/sendgrid-client": "^1.0.0",
+    "@ntegral/sendgrid-client": "^1.0.2",
     "@sendgrid/client": "^7.1.1"
   },
   "jest": {

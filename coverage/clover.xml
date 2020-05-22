@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1589599181690" clover="3.2.0">
-  <project timestamp="1589599181690" name="All files">
+<coverage generated="1590166973961" clover="3.2.0">
+  <project timestamp="1590166973961" name="All files">
     <metrics statements="44" coveredstatements="44" conditionals="10" coveredconditionals="9" methods="14" coveredmethods="14" elements="68" coveredelements="67" complexity="0" loc="44" ncloc="44" packages="3" files="8" classes="8"/>
     <package name="lib">
       <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="9" methods="11" coveredmethods="11"/>
@@ -10,8 +10,8 @@
         <line num="3" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
         <line num="8" count="2" type="stmt"/>
-        <line num="10" count="2" type="stmt"/>
-        <line num="12" count="2" type="stmt"/>
+        <line num="10" count="3" type="stmt"/>
+        <line num="12" count="3" type="stmt"/>
         <line num="20" count="2" type="stmt"/>
         <line num="23" count="2" type="stmt"/>
         <line num="26" count="2" type="stmt"/>
@@ -32,7 +32,7 @@
         <line num="1" count="2" type="stmt"/>
         <line num="3" count="2" type="stmt"/>
         <line num="6" count="2" type="stmt"/>
-        <line num="8" count="2" type="stmt"/>
+        <line num="8" count="3" type="stmt"/>
         <line num="15" count="2" type="stmt"/>
         <line num="20" count="2" type="stmt"/>
       </file>
@@ -62,8 +62,8 @@
         <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="2" type="stmt"/>
         <line num="4" count="2" type="stmt"/>
-        <line num="5" count="4" type="stmt"/>
-        <line num="6" count="4" type="stmt"/>
+        <line num="5" count="5" type="stmt"/>
+        <line num="6" count="5" type="stmt"/>
       </file>
     </package>
     <package name="lib.providers">
@@ -76,7 +76,7 @@
         <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
         <line num="2" count="2" type="stmt"/>
         <line num="5" count="2" type="stmt"/>
-        <line num="6" count="2" type="stmt"/>
+        <line num="6" count="3" type="stmt"/>
       </file>
     </package>
   </project>
